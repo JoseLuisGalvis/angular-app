@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background-color: #344C11;
+  border-radius: 0 0 1em 1em;
+  box-shadow: 0 12px 6px rgba(0, 0, 0, 0.9);
+ }
+
+ .text {
+  color: white;
+  font-size: 32px;
+ }
