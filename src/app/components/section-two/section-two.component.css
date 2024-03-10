@@ -20,7 +20,7 @@
   margin-bottom: 1em;
 }
 
-.text {
+.section-text {
   color: white;
   font-size: 18px;
 }
@@ -47,7 +47,7 @@
     margin-block-end: 0.2em;
   }
 
-  .text {
+  .section-text {
     font-size: 12px;
     margin-block-start: 0.25em;
   }
@@ -66,7 +66,7 @@
     margin-block-end: 0.2em;
   }
 
-  .text {
+  .section-text {
     font-size: 12px;
     margin-block-start: 0.25em;
   }
