@@ -37,7 +37,7 @@
 @media screen and (max-width: 350px) {
   .section {
     width: 70%;
-    height: 50px;
+    height: 30px;
     margin: 0.25em 0.5em;
     padding: 0.25em 0.5em;
   }
@@ -56,7 +56,7 @@
 @media screen and (max-width: 240px) {
   .section {
     width: 70%;
-    height: 50px;
+    height: 30px;
     margin: 0.25em 0.5em;
     padding: 0.25em 0.5em;
   }
