@@ -27,6 +27,26 @@
   font-size: 18px;
 }
 
+@media screen and (max-width: 240px) {
+  .section {
+    width: 80%;
+    min-height: 60px;
+    margin: 0.25em;
+    padding: 0.25em 0.5em 0.25em 1.5em;
+  }
+
+  .section-title {
+    font-size: 16px;
+    margin-bottom: 0;
+    margin-block-end: 0.2em;
+  }
+
+  .section-text {
+    font-size: 12px;
+    margin-block-start: 0.25em;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .section {
     width: 90%;
@@ -55,28 +75,6 @@
     margin-block-start: 0.25em;
   }
 }
-
-
-@media screen and (max-width: 240px) {
-  .section {
-    width: 80%;
-    min-height: 60px;
-    margin: 0.25em;
-    padding: 0.25em 0.5em 0.25em 1.5em;
-  }
-
-  .section-title {
-    font-size: 16px;
-    margin-bottom: 0;
-    margin-block-end: 0.2em;
-  }
-
-  .section-text {
-    font-size: 12px;
-    margin-block-start: 0.25em;
-  }
-}
-
 
 
 
