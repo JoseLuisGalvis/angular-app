@@ -56,7 +56,8 @@
 
 @media screen and (max-width: 240px) {
   .section {
-    width: 70%; /* Ajuste de ancho para pantallas más pequeñas */
+    width: 60%; /* Ajuste de ancho para pantallas más pequeñas */
+    height: 80px;
     margin: 0.5em 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
     padding: 0.5em 1em;
   }

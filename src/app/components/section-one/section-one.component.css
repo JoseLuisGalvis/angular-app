@@ -37,8 +37,9 @@
 @media screen and (max-width: 350px) {
   .section {
     width: 70%; /* Ajuste de ancho para pantallas más pequeñas */
-    margin: 0.5em 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
-    padding: 0.5em 1em;
+    height: 100px;
+    margin: 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
+    padding: 1em;
   }
   .section-title {
     font-size: 18px;
@@ -53,7 +54,8 @@
 
 @media screen and (max-width: 240px) {
   .section {
-    width: 70%; /* Ajuste de ancho para pantallas más pequeñas */
+    width: 60%; /* Ajuste de ancho para pantallas más pequeñas */
+    height: 80px;
     margin: 0.5em 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
     padding: 0.5em 1em;
   }
