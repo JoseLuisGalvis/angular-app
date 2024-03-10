@@ -15,12 +15,15 @@
  .text {
   color: white;
   font-size: 32px;
+  line-height: 1.5; /* Añade espacio entre líneas */
+  margin-block-start: 0.3em;
+  margin-block-end: 0.3em;
  }
 
  @media screen and (max-width: 350px) {
   .text {
     font-size: 24px;
-    margin-block-start: 0.3em!Important;
-    margin-block-end: 0.3em!Important;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.3em;
    }
  }

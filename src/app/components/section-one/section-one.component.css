@@ -31,14 +31,16 @@
   .section {
   width: 60%; /* Ajuste de ancho para pantallas más pequeñas */
   margin: 1em; /* También puedes ajustar el margen para adaptarse mejor a pantallas medianas */
-  }
+  padding: 1em 2em;
+}
  }
 
  @media screen and (max-width: 350px) {
   .section {
   width: 40%; /* Ajuste de ancho para pantallas más pequeñas */
   margin: 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
-  }
+  padding: 1em;
+}
  }
 
  @media screen and (max-width: 240px) {
