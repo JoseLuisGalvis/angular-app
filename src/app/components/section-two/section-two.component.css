@@ -42,6 +42,15 @@
     margin: 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
     padding: 1em;
   }
+  .section-title {
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-block-end: 0.2em;
+  }
+
+  .text {
+    margin-block-start: 0.5em
+  }
 }
 
 @media screen and (max-width: 240px) {
@@ -54,12 +63,3 @@
   }
 }
 
-
- @media screen and (max-width: 240px) {
-  .section {
-  width: 90%; /* Ajuste de ancho adicional para pantallas muy pequeñas para mantener la proporción */
-  margin: .5em; /* Ajustar el margen para adaptarse a pantallas muy pequeñas */
-  padding: .5em 1em; /* Ajustar el relleno para adaptarse a pantallas muy pequeñas */
-  font-size: 12px; /* Ajustar el tamaño del texto para pantallas muy pequeñas */
-  }
- }
