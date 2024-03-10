@@ -56,18 +56,19 @@
 
 @media screen and (max-width: 240px) {
   .section {
-    width: 60%; /* Ajuste de ancho para pantallas más pequeñas */
-    height: 80px;
+    width: 70%; /* Ajuste de ancho para pantallas más pequeñas */
+    height: 70px;
     margin: 0.5em 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
     padding: 0.5em 1em;
   }
   .section-title {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 0;
     margin-block-end: 0.2em;
   }
 
   .text {
+    font-size: 12px;
     margin-block-start: 0.5em
   }
 }
