@@ -37,8 +37,8 @@
 @media screen and (max-width: 350px) {
   .section {
     width: 70%; /* Ajuste de ancho para pantallas más pequeñas */
-    margin: 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
-    padding: 1em;
+    margin: 0.5em 1em; /* Ajustar el margen para adaptarse a pantallas más pequeñas */
+    padding: 0.5em 1em;
   }
   .section-title {
     font-size: 18px;
