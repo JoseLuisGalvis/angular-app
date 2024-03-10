@@ -35,10 +35,17 @@
 
 @media screen and (max-width: 350px) {
   .section {
+<<<<<<< HEAD
 
     min-height: 30px;
     margin: 0.5em;
     padding: 0.5em 1em;
+=======
+    width: 70%;
+    height: 30px;
+    margin: 0.25em 0.5em;
+    padding: 0.25em 0.5em;
+>>>>>>> c26990e368f956874ecac8e87493ae072773e17a
   }
   .section-title {
     font-size: 16px;
@@ -54,9 +61,16 @@
 
 @media screen and (max-width: 240px) {
   .section {
+<<<<<<< HEAD
     min-height: 30px;
     margin: 0.25em;
     padding: 0.25em 0.5em 0.25em 1.5em;
+=======
+    width: 70%;
+    height: 30px;
+    margin: 0.25em 0.5em;
+    padding: 0.25em 0.5em;
+>>>>>>> c26990e368f956874ecac8e87493ae072773e17a
   }
 
   .section-title {
